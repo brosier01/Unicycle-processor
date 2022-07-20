@@ -1,3 +1,3 @@
 # Unicycle-processor
 
-This  repository contains source code of a unicycle processor in VHDL. 
+This repository contains the source code of a single-cycle processor in VHDL.
